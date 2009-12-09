@@ -1,0 +1,3 @@
+To compile, run:
+
+ghc --make -o simple_parser SinH.hs 
